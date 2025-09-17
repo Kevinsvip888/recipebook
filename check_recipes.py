@@ -20,3 +20,5 @@ if errors:
     sys.exit(1)
 
 print("All recipes have the required sections.")
+
+"This is a typo that should be fixed."
